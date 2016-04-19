@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/jsidhu/Work/IJ/SpringWebApp/src/test/java/tutorial/BlogEntryControllerTest.java'" />
-    <option name="defaultScopeName" value="File '/Users/jsidhu/Work/IJ/SpringWebApp/src/test/java/tutorial/BlogEntryControllerTest.java'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/jsidhu/Work/IJ/SpringWebApp/src/test/java/tutorial/BlogEntryControllerTest.java'" />
+    <option name="customScope" value="Project 'SpringWebApp'" />
+    <option name="defaultScopeName" value="Project 'SpringWebApp'" />
+    <option name="SEARCH_SCOPE" value="Project 'SpringWebApp'" />
   </component>
 </application>
