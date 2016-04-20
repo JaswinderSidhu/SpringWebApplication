@@ -5,5 +5,9 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="HTML" injector-id="xml">
+      <display-name>page/@language</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("language")).withParent(xmlTag().withLocalName(string().equalTo("page")).withNamespace(string().equalTo("http://java.sun.com/JSP/Page")))]]></place>
+    </injection>
   </component>
 </application>
