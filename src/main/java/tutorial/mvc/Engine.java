@@ -5,7 +5,7 @@ package tutorial.mvc;
  */
 public interface Engine {
 
-    public void increaseRpm();
-    public int getRpm();
+    void increaseRpm();
+    int getRpm();
 
 }
